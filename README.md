@@ -12,3 +12,5 @@ minplayers=3
 Filters include objectname, objectid, average, avgweight, rank, 
 minplayers, maxplayers, playingtime, bggbestplayers. Requests must
 match database exactly. 
+
+Multiple filters can be chained together using & in the url. An example would be /boardgameapp/api/games?minplayers=3&maxplayers=5
