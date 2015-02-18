@@ -4,11 +4,8 @@ This is a project for UDel CISC474 that uses a simple LAMP stack to use as an in
 ## API Calls
 
 www.barcablaugrana.com/boardgameapp/api/games?filters
-
 Filter part of the url, must be of the form
-
 minplayers=3
-
 Filters include objectname, objectid, average, avgweight, rank, 
 minplayers, maxplayers, playingtime, bggbestplayers. Requests must
 match database exactly. 
