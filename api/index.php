@@ -20,9 +20,11 @@
 if ($request == "/games") {
   if ($verb == "GET") {
     $dbhandle = new PDO("sqlite:bgg.sqlite") or die("Failed to open DB");
-    if (!$dbhandle) die ($error);
+    if (!$dbhandle){
+     die ($error);
+   }
  
- 	echo $path;
+   	echo $path;
     echo "<br />";
     echo $parameters;
     echo "<br />";
@@ -41,7 +43,7 @@ if ($request == "/games") {
     //header('HTTP/1.1 200 OK');
     //header('Content-Type: application/json');
     echo json_encode($results);
-  
+    
   } else {
     
     header('HTTP/1.1 404 Not Found');
