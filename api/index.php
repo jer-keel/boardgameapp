@@ -5,8 +5,8 @@
  $uri = $_SERVER['REQUEST_URI'];
 
  function foo($parameters){
-    echo $parameters;
-    echo "<br />";
+    //echo $parameters;
+    //echo "<br />";
 }
 
  $url_parts = parse_url($uri);
@@ -24,24 +24,34 @@ if ($request == "/games") {
      die ($error);
    }
  
-   	echo $path;
-    echo "<br />";
-    echo $parameters;
-    echo "<br />";
+   	//echo $path;
+    //echo "<br />";
+    //echo $parameters;
+    //echo "<br />";
     parse_str($parameters, $array);
-    echo($array['minGames']);
-    echo "<hr />";
+    //echo($array['minGames']);
+    $keys = (array_keys($array));
+    //echo "<hr />";
+    $ans = "";
+    if (count($keys) > 0){
+      $ans = "WHERE  " . $keys[0] . "=" . $array[$keys[0]];
+    }
+    for ($i = 1; $i < count($keys); $i++) {
+      $ans = $ans . " AND " . $keys[$i] . "=" . $array[$keys[$i]];
+    }
+    //echo $ans;
+    //echo "<hr />";
     //foo($parameters);
     
     
     $query = "SELECT objectname as game
-          from games order by random() limit 0, 10";
+          from games " . $ans . " order by random() limit 0, 10";
     $statement = $dbhandle->prepare($query);
     $statement->execute();
     $results = $statement->fetchAll(PDO::FETCH_ASSOC);
 
-    //header('HTTP/1.1 200 OK');
-    //header('Content-Type: application/json');
+    header('HTTP/1.1 200 OK');
+    header('Content-Type: application/json');
     echo json_encode($results);
     
   } else {
