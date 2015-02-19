@@ -9,7 +9,7 @@ $path = $url_parts["path"];
 $parameters = $url_parts["query"];
 
 $temp_param = urldecode($parameters);
-$len = strlen($parameters);
+$len = strlen($temp_param);
 $arguments = array();
 $j = 0;
 
