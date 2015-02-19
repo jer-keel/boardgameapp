@@ -1,21 +1,20 @@
 <?php
 
- $verb = $_SERVER['REQUEST_METHOD'];
+$verb = $_SERVER['REQUEST_METHOD'];
 
- $uri = $_SERVER['REQUEST_URI'];
+$uri = $_SERVER['REQUEST_URI'];
 
- function foo($parameters){
-    //echo $parameters;
-    //echo "<br />";
+$url_parts = parse_url($uri);
+$path = $url_parts["path"];
+$parameters = $url_parts["query"];
+
+for ($i = 0; $i < strlen($paramaters); $i++){
+  // DO STUFF HERE
 }
 
- $url_parts = parse_url($uri);
- $path = $url_parts["path"];
- $parameters = $url_parts["query"];
-
- $prefix = "api";
- $ind = strpos($path, $prefix);
- $request = substr($path, $ind + strlen($prefix));
+$prefix = "api";
+$ind = strpos($path, $prefix);
+$request = substr($path, $ind + strlen($prefix));
 
 if ($request == "/games") {
   if ($verb == "GET") {
@@ -23,12 +22,13 @@ if ($request == "/games") {
     if (!$dbhandle){
      die ($error);
    }
- 
+
    	//echo $path;
     //echo "<br />";
     //echo $parameters;
     //echo "<br />";
-    parse_str($parameters, $array);
+    parse_str($parameters, $array); //This parses paramaters into an array with columns (minplayers) as keys
+                                    //and values (2) as values (heh). $array['minplayers'] = 2 (example)
     //echo($array['minGames']);
     $keys = (array_keys($array));
     //echo "<hr />";
@@ -43,10 +43,16 @@ if ($request == "/games") {
     //echo "<hr />";
     //foo($parameters);
     
-    
-    $query = "SELECT objectname as game
-          from games " . $ans . " order by random() limit 0, 10";
+    $numGames = 5;
+    $numGamesStr = strval($numGames);
+    $query = "SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games " . $ans . " order by random() limit 0, " . $numGamesStr;
     $statement = $dbhandle->prepare($query);
+    error_log($query);
     $statement->execute();
     $results = $statement->fetchAll(PDO::FETCH_ASSOC);
 
@@ -55,12 +61,12 @@ if ($request == "/games") {
     echo json_encode($results);
     
   } else {
-    
+
     header('HTTP/1.1 404 Not Found');
-  
+
   }
 } else {
-    
+
   header('HTTP/1.1 404 Not Found');
 }
 ?>
