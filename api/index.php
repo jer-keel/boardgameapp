@@ -8,9 +8,26 @@ $url_parts = parse_url($uri);
 $path = $url_parts["path"];
 $parameters = $url_parts["query"];
 
-for ($i = 0; $i < strlen($paramaters); $i++){
-  // DO STUFF HERE
+$temp_param = urldecode($parameters);
+$len = strlen($parameters);
+$arguments = array();
+$j = 0;
+
+//echo($parameters);
+for ($i = 0; $i < $len; $i++){
+  $char = $temp_param[$i];
+  //echo($char.", ");
+  if($char === "<" || $char === ">" || $char === "=") {
+    $arguments[$j] = $char;
+    $temp_param[$i] = "=";
+    //echo($arguments[$j].", ");
+    $j++;
+    //echo($arguments[$j]);
+    //echo("<br>");
+
+  }
 }
+//echo("<br>");
 
 $prefix = "api";
 $ind = strpos($path, $prefix);
@@ -24,9 +41,11 @@ if ($request == "/games") {
    }
 
    	//echo $path;
-    //echo "<br />";
     //echo $parameters;
     //echo "<br />";
+    //echo $temp_param;
+    //echo "<br />";
+    $parameters = $temp_param;
     parse_str($parameters, $array); //This parses paramaters into an array with columns (minplayers) as keys
                                     //and values (2) as values (heh). $array['minplayers'] = 2 (example)
     //echo($array['minGames']);
@@ -34,13 +53,13 @@ if ($request == "/games") {
     //echo "<hr />";
     $ans = "";
     if (count($keys) > 0){
-      $ans = "WHERE  " . $keys[0] . "=" . $array[$keys[0]];
+      $ans = "WHERE  " . $keys[0] . $arguments[0] . $array[$keys[0]];
     }
     for ($i = 1; $i < count($keys); $i++) {
-      $ans = $ans . " AND " . $keys[$i] . "=" . $array[$keys[$i]];
+      $ans = $ans . " AND " . $keys[$i] . $arguments[$i] . $array[$keys[$i]];
     }
     //echo $ans;
-    //echo "<hr />";
+    //echo "<br />";
     //foo($parameters);
     
     $numGames = 5;
@@ -58,6 +77,7 @@ if ($request == "/games") {
 
     header('HTTP/1.1 200 OK');
     header('Content-Type: application/json');
+    //echo("<hr>");
     echo json_encode($results);
     
   } else {
