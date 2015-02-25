@@ -6,8 +6,8 @@ $(document).ready(function(){
     event.preventDefault();
     console.log("Submitted the form");
 
-    var minPlayersInput = (parseInt($("#minPlayersInput").val()) - 1).toString();
-    var maxPlayersInput = (parseInt($("#maxPlayersInput").val()) + 1).toString();
+    var minPlayersInput = $("#minPlayersInput").val();
+    var maxPlayersInput = $("#maxPlayersInput").val();
     var rankInput = $("#rankInput").val();
 
     var minString;
@@ -18,12 +18,14 @@ $(document).ready(function(){
     var inpNum = 0;
 
     if (minPlayersInput){
-      console.log(minPlayersInput);
+      minPlayersInput = (parseInt(minPlayersInput) - 1).toString();
+      //console.log(minPlayersInput);
       minString = "minplayers>" + minPlayersInput;
       urlArr[inpNum] = minString;
       inpNum++;
     }
     if (maxPlayersInput){
+      maxPlayersInput = (parseInt(maxPlayersInput) - 1).toString();
       maxString = "maxplayers<" + maxPlayersInput;
       urlArr[inpNum] = maxString;
       inpNum++;
@@ -51,6 +53,7 @@ $(document).ready(function(){
 
       success: function(data){
         $(".games").empty();
+        $("#gameTable tbody").remove();
         games_list = data;
         console.log(data);
 
