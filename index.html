@@ -7,11 +7,11 @@
 </head>
 <body>
 	<div class="container">
-		<h1>Boardgame App v0.01</h1>
+		<h1>Boardgame App v0.1</h1>
 		<h3>Created by: Jeremy, Ken, Kyle</h3>
 		<hr>
 		<h4>Search parameters:</h4>
-		<form class="form-inline">
+		<form class="form-inline" id="getGames" action="javascript:alert('A');">
     	<div class="form-group">
     		<label for="minPlayersInput">Min Players</label>
     		<input type="text" class="form-control" id="minPlayersInput" placeholder="2">
@@ -28,27 +28,14 @@
     </form>
     <br></br>
     <strong>Results:</strong>
-		<ul class="games"></ul>
-			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-	  <!-- Indicators -->
-	  <ol class="carousel-indicators">
-	    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-	    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-	    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-	  </ol>
-	 
-	  <!-- Wrapper for slides -->
-	  <div class="carousel-inner">
-	  </div>
-	 
-	  <!-- Controls -->
-	  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-	    <span class="glyphicon glyphicon-chevron-left"></span>
-	  </a>
-	  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-	    <span class="glyphicon glyphicon-chevron-right"></span>
-	  </a>
-	</div> <!-- Carousel -->
-	<p>Test</p>
+    <ul class="games"></ul>
+    <table class="table table-hover" id="gameTable">
+      <tr>
+        <th>Game</th>
+        <th>Minimum Players</th>
+        <th>Maximum Players</th>
+      </tr>
+    </table>
+    <p>Test</p>
 	</div>
 </body>
