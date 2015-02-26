@@ -70,7 +70,7 @@ if ($request == "/games") {
     minplayers,
     playingtime,
     objectid
-    from games " . $ans . " order by random() limit 0, " . $numGamesStr;
+    from games " . $ans . " order by random()";
     $statement = $dbhandle->prepare($query);
     error_log($query);
     $statement->execute();
