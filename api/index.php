@@ -68,7 +68,8 @@ if ($request == "/games") {
     rank,
     maxplayers,
     minplayers,
-    playingtime
+    playingtime,
+    objectid
     from games " . $ans . " order by random() limit 0, " . $numGamesStr;
     $statement = $dbhandle->prepare($query);
     error_log($query);

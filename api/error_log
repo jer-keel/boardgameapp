@@ -1,0 +1,2523 @@
+[17-Feb-2015 14:03:48 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/kbweaver/public_html/boardgameapp/api/index.php on line 27
+[17-Feb-2015 14:04:04 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/kbweaver/public_html/boardgameapp/api/index.php on line 27
+[17-Feb-2015 14:04:05 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/kbweaver/public_html/boardgameapp/api/index.php on line 27
+[17-Feb-2015 14:04:06 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/kbweaver/public_html/boardgameapp/api/index.php on line 27
+[17-Feb-2015 14:04:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kbweaver/public_html/boardgameapp/api/index.php:26) in /home/kbweaver/public_html/boardgameapp/api/index.php on line 28
+[17-Feb-2015 14:04:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kbweaver/public_html/boardgameapp/api/index.php:26) in /home/kbweaver/public_html/boardgameapp/api/index.php on line 29
+[17-Feb-2015 19:28:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/kbweaver/public_html/boardgameapp/api/index.php on line 8
+[17-Feb-2015 19:32:55 UTC] PHP Fatal error:  Call to undefined function http_parse_params() in /home/kbweaver/public_html/boardgameapp/api/index.php on line 30
+[17-Feb-2015 19:35:28 UTC] PHP Fatal error:  Call to undefined function http_parse_params() in /home/kbweaver/public_html/boardgameapp/api/index.php on line 30
+[18-Feb-2015 20:21:33 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/kbweaver/public_html/boardgameapp/api/index.php on line 34
+[18-Feb-2015 20:28:33 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 44
+[18-Feb-2015 20:52:12 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 50
+[19-Feb-2015 00:51:27 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 50
+[19-Feb-2015 01:04:39 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 50
+[19-Feb-2015 13:08:14 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 50
+[19-Feb-2015 13:22:40 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 50
+[19-Feb-2015 13:24:01 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:24:02 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:24:02 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:32:54 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:36:22 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:38:00 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:38:24 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:38:24 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:40:46 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:40:48 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:45:45 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:45:54 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:45:56 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:45:57 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:45:58 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:45:59 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:46:00 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:46:01 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:46:01 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:46:03 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 51
+[19-Feb-2015 13:48:36 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 56
+[19-Feb-2015 13:48:41 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 56
+[19-Feb-2015 13:48:42 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 56
+[19-Feb-2015 13:49:37 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 56
+[19-Feb-2015 13:55:21 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 56
+[19-Feb-2015 13:56:44 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 56
+[19-Feb-2015 13:57:57 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  key=value order by random() limit 0, 5
+[19-Feb-2015 13:57:57 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 57
+[19-Feb-2015 13:58:00 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  key=value order by random() limit 0, 5
+[19-Feb-2015 13:58:00 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 57
+[19-Feb-2015 13:59:44 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 13:59:55 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:00:25 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:00:30 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:03:01 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=2 order by random() limit 0, 5
+[19-Feb-2015 14:04:05 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games  order by random() limit 0, 5
+[19-Feb-2015 14:04:06 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=2 order by random() limit 0, 5
+[19-Feb-2015 14:04:08 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers>3= order by random() limit 0, 5
+[19-Feb-2015 14:04:08 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 57
+[19-Feb-2015 14:04:12 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers<3= order by random() limit 0, 5
+[19-Feb-2015 14:04:12 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 57
+[19-Feb-2015 14:08:15 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:11:56 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:02 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:02 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:39 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:42 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:43 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:44 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:45 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:45 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:46 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:47 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:47 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:48 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:49 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:49 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:50 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:50 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:12:51 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:17 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:19 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:21 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:22 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:28 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:36 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:37 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:37 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:38 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:39 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:40 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:40 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:49 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:50 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:50 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:51 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:55 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:57 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:13:57 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:02 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:03 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:03 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:09 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:10 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:11 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:11 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:12 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:13 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:13 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:14 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:15 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:16 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:16 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:17 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:17 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:18 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:27 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 14:14:28 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:55:53 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:55:55 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:55:56 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:55:57 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:55:57 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:55:58 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:55:59 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:56:10 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:56:14 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:57:37 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 16:57:41 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:01:22 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:02:43 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:07:42 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:07:45 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:07:49 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:07:51 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:07:52 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:07:53 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:07:55 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:08:01 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:08:46 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:09:34 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:09:40 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:09:59 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:28:22 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=2 order by random() limit 0, 5
+[19-Feb-2015 17:28:48 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 AND rank=1 order by random() limit 0, 5
+[19-Feb-2015 17:28:53 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=2 AND rank=1 order by random() limit 0, 5
+[19-Feb-2015 17:29:08 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=2 AND maxplayers=4 order by random() limit 0, 5
+[19-Feb-2015 17:29:19 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:26 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:31 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:36 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:37 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:38 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:38 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:39 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:39 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:39 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:29:40 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:48:56 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 17:51:10 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:25:03 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:26:01 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:28:02 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:28:55 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:31:55 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:31:58 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:34:56 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 20:35:17 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:22:30 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:45:37 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:51:35 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:51:40 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:51:42 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:52:22 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:52:24 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:53:13 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[19-Feb-2015 23:54:58 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 00:02:07 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 00:03:29 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 00:04:20 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 00:06:45 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 00:07:35 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 02:35:57 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 02:36:03 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 18:20:02 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 18:20:26 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 19:19:24 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 20:09:46 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games  order by random() limit 0, 5
+[20-Feb-2015 20:09:54 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 20:10:03 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 20:10:07 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 20:10:09 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 21:22:00 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 21:22:04 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 21:30:23 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 22:09:00 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 22:09:06 UTC] SELECT objectname as game,
+      rank,
+      maxplayers,
+      minplayers,
+      playingtime,
+      average
+      from games WHERE  minplayers>3= order by random() limit 0, 5
+[20-Feb-2015 22:09:06 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 62
+[20-Feb-2015 22:11:50 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>3 order by random() limit 0, 5
+[20-Feb-2015 22:12:08 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>4 order by random() limit 0, 5
+[20-Feb-2015 22:30:24 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 22:50:13 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 22:54:37 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 22:54:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 23:00:02 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[20-Feb-2015 23:01:40 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[21-Feb-2015 09:28:32 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  filters order by random() limit 0, 5
+[21-Feb-2015 09:28:32 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[22-Feb-2015 00:45:32 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 00:45:46 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 00:45:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 00:45:53 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:17 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:24 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:29 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:31 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:32 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:33 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:33 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:34 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:36 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:37 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 21:03:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 23:29:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 23:29:51 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 23:29:56 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[22-Feb-2015 23:29:57 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[23-Feb-2015 00:11:53 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  filters order by random() limit 0, 5
+[23-Feb-2015 00:11:53 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[23-Feb-2015 00:11:58 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games  order by random() limit 0, 5
+[23-Feb-2015 00:12:07 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>3 order by random() limit 0, 5
+[24-Feb-2015 13:50:11 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>3 order by random() limit 0, 5
+[24-Feb-2015 13:53:22 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[24-Feb-2015 14:06:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[24-Feb-2015 14:07:12 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[24-Feb-2015 14:08:13 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[24-Feb-2015 14:09:43 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[24-Feb-2015 14:09:50 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  adfassdflahsdjfqa order by random() limit 0, 5
+[24-Feb-2015 14:09:50 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 16:13:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:13:40 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:13:44 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:13:44 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:13:45 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:13:46 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:13:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:13:48 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:18:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:18:39 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:18:45 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:18:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:18:49 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:21:25 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:24:37 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers= order by random() limit 0, 5
+[25-Feb-2015 16:24:37 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 16:24:42 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers= order by random() limit 0, 5
+[25-Feb-2015 16:24:42 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 16:25:16 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=NaN order by random() limit 0, 5
+[25-Feb-2015 16:25:16 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 16:25:22 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=NaN order by random() limit 0, 5
+[25-Feb-2015 16:25:22 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 16:30:48 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers= order by random() limit 0, 5
+[25-Feb-2015 16:30:48 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 16:30:54 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers= order by random() limit 0, 5
+[25-Feb-2015 16:30:54 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 16:40:18 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=2 order by random() limit 0, 5
+[25-Feb-2015 16:40:18 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=2 order by random() limit 0, 5
+[25-Feb-2015 16:40:25 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=2 order by random() limit 0, 5
+[25-Feb-2015 16:40:26 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=2 order by random() limit 0, 5
+[25-Feb-2015 16:40:28 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=2 order by random() limit 0, 5
+[25-Feb-2015 16:40:28 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=2 order by random() limit 0, 5
+[25-Feb-2015 16:41:18 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:41:18 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=2 order by random() limit 0, 5
+[25-Feb-2015 16:41:53 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:41:53 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:42:11 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:42:12 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:43:01 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:43:16 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:44:54 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:51:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:52:11 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:52:42 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:56:13 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:56:52 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 16:58:58 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:10:24 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:11:23 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:11:34 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:15:18 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:15:53 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:16:50 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:27:45 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:30:39 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:30:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:30:49 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:31:57 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:31:58 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:35:22 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:35:27 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:37:06 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:37:48 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:38:13 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:51:42 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:51:42 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:51:42 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:54:12 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:55:21 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:56:06 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:56:08 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:58:59 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:59:22 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:59:24 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 17:59:27 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 18:02:13 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 18:02:15 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 18:02:16 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers=3 order by random() limit 0, 5
+[25-Feb-2015 18:08:03 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 order by random() limit 0, 5
+[25-Feb-2015 18:33:10 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers?3 order by random() limit 0, 5
+[25-Feb-2015 18:33:10 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 18:33:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers?2 order by random() limit 0, 5
+[25-Feb-2015 18:33:35 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 18:33:40 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 order by random() limit 0, 5
+[25-Feb-2015 18:34:07 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>3 order by random() limit 0, 5
+[25-Feb-2015 19:00:36 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>[object Object] order by random() limit 0, 5
+[25-Feb-2015 19:00:36 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:01:29 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>[object Object] order by random() limit 0, 5
+[25-Feb-2015 19:01:29 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:02:12 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 order by random() limit 0, 5
+[25-Feb-2015 19:03:55 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 order by random() limit 0, 5
+[25-Feb-2015 19:04:09 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 order by random() limit 0, 5
+[25-Feb-2015 19:05:20 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 order by random() limit 0, 5
+[25-Feb-2015 19:07:02 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 AND maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 19:12:45 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 AND maxplayers<100 AND rank=[object HTMLInputElement] order by random() limit 0, 5
+[25-Feb-2015 19:12:45 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:13:50 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 AND maxplayers<100 AND rank=1 order by random() limit 0, 5
+[25-Feb-2015 19:14:02 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<100 AND rank=1 order by random() limit 0, 5
+[25-Feb-2015 19:22:27 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 AND rank=1 order by random() limit 0, 5
+[25-Feb-2015 19:31:20 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<101 AND rank=1 order by random() limit 0, 5
+[25-Feb-2015 19:31:36 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<101 order by random() limit 0, 5
+[25-Feb-2015 19:32:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<101 order by random() limit 0, 5
+[25-Feb-2015 19:33:55 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<101 order by random() limit 0, 5
+[25-Feb-2015 19:41:37 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>NaN AND maxplayers<NaN order by random() limit 0, 5
+[25-Feb-2015 19:41:37 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:41:55 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<NaN order by random() limit 0, 5
+[25-Feb-2015 19:41:55 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:41:59 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<3 order by random() limit 0, 5
+[25-Feb-2015 19:42:07 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>NaN AND maxplayers<NaN AND rank=1 order by random() limit 0, 5
+[25-Feb-2015 19:42:07 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:42:15 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>NaN AND maxplayers<NaN order by random() limit 0, 5
+[25-Feb-2015 19:42:15 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:42:19 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<NaN order by random() limit 0, 5
+[25-Feb-2015 19:42:19 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:42:20 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<NaN order by random() limit 0, 5
+[25-Feb-2015 19:42:20 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:42:20 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<NaN order by random() limit 0, 5
+[25-Feb-2015 19:42:20 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:46:43 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<2 order by random() limit 0, 5
+[25-Feb-2015 19:46:50 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  maxplayers<NaN order by random() limit 0, 5
+[25-Feb-2015 19:46:50 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[25-Feb-2015 19:47:46 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 19:50:31 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:50:36 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:50:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:51:17 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:51:19 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:51:20 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:51:22 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:51:23 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<99 order by random() limit 0, 5
+[25-Feb-2015 19:52:17 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[25-Feb-2015 19:52:24 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 19:52:25 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 19:52:25 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 19:52:26 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 19:52:27 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 19:52:31 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  maxplayers<4 order by random() limit 0, 5
+[25-Feb-2015 21:40:21 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=1 order by random() limit 0, 5
+[25-Feb-2015 21:40:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=8 order by random() limit 0, 5
+[25-Feb-2015 21:40:43 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=100 order by random() limit 0, 5
+[25-Feb-2015 21:40:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=100 order by random() limit 0, 5
+[25-Feb-2015 21:40:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=100 order by random() limit 0, 5
+[25-Feb-2015 21:40:48 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=100 order by random() limit 0, 5
+[25-Feb-2015 21:40:48 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=100 order by random() limit 0, 5
+[26-Feb-2015 00:36:01 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:01 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:02 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:02 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:02 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:03 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:03 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:03 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:03 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 00:36:09 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:09 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:09 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:32 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:34 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:39 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:54 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:55 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:36:55 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:37:21 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 00:37:41 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 order by random() limit 0, 5
+[26-Feb-2015 03:02:42 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 AND maxplayers<3 order by random() limit 0, 5
+[26-Feb-2015 03:06:19 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND rank=1 order by random() limit 0, 5
+[26-Feb-2015 03:06:29 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:06:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<9 order by random() limit 0, 5
+[26-Feb-2015 03:06:40 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<9 order by random() limit 0, 5
+[26-Feb-2015 03:06:41 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<9 order by random() limit 0, 5
+[26-Feb-2015 03:06:43 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<9 order by random() limit 0, 5
+[26-Feb-2015 03:06:44 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<9 order by random() limit 0, 5
+[26-Feb-2015 03:06:45 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<9 order by random() limit 0, 5
+[26-Feb-2015 03:27:19 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:28:58 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:32:54 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:38:19 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:46:15 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:46:30 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:46:33 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:46:35 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:46:36 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:46:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:47:03 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:47:06 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:47:13 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>2 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 03:47:21 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 03:47:26 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 03:47:31 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>0 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 03:50:56 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:54:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 03:58:39 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=[object HTMLInputElement] order by random() limit 0, 5
+[26-Feb-2015 03:58:39 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[26-Feb-2015 03:59:43 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=[object HTMLInputElement] order by random() limit 0, 5
+[26-Feb-2015 03:59:43 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[26-Feb-2015 03:59:46 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=[object HTMLInputElement] order by random() limit 0, 5
+[26-Feb-2015 03:59:46 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[26-Feb-2015 03:59:58 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=[object HTMLInputElement] order by random() limit 0, 5
+[26-Feb-2015 03:59:58 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/kbweaver/public_html/boardgameapp/api/index.php on line 75
+[26-Feb-2015 04:02:22 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=60 order by random() limit 0, 5
+[26-Feb-2015 04:02:30 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=45 order by random() limit 0, 5
+[26-Feb-2015 04:02:37 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=15 order by random() limit 0, 5
+[26-Feb-2015 04:07:58 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  playingtime=60 order by random() limit 0, 5
+[26-Feb-2015 04:07:59 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  playingtime=60 order by random() limit 0, 5
+[26-Feb-2015 04:28:17 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 04:28:39 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 04:30:42 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 04:35:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 04:39:01 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=60 order by random() limit 0, 5
+[26-Feb-2015 04:40:54 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  playingtime=60 order by random() limit 0, 5
+[26-Feb-2015 12:54:25 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<4 AND playingtime=60 order by random() limit 0, 5
+[26-Feb-2015 12:55:20 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 12:55:38 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 12:55:40 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 12:55:40 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<4 order by random() limit 0, 5
+[26-Feb-2015 12:55:44 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:45 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:46 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:46 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:47 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:48 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:48 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:49 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:50 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:50 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:51 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:52 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:53 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:55 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:55 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:55:56 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  minplayers>1 AND maxplayers<5 order by random() limit 0, 5
+[26-Feb-2015 12:56:04 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  rank=1 order by random() limit 0, 5
+[26-Feb-2015 12:56:13 UTC] SELECT objectname as game,
+    rank,
+    maxplayers,
+    minplayers,
+    playingtime,
+    objectid
+    from games WHERE  playingtime=60 order by random() limit 0, 5

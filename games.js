@@ -9,12 +9,22 @@ $(document).ready(function(){
     var minPlayersInput = $("#minPlayersInput").val();
     var maxPlayersInput = $("#maxPlayersInput").val();
     var rankInput = $("#rankInput").val();
+    var playingTimeInput = $("#playingTimeInput").val();
 
     var minString;
     var maxString;
     var rankString;
+    var playingTimeString;
+
+    //Bools for sorting the table
+    var gameColumnBool;
+    var minPlayerColumnBool;
+    var maxPlayerColumnBool;
+    var playingTimeColumnBool;
+    var rankColumnBool;
 
     var urlArr = [];
+    var mUrl = [];
     var inpNum = 0;
 
     if (minPlayersInput){
@@ -35,10 +45,17 @@ $(document).ready(function(){
       urlArr[inpNum] = rankString;
       inpNum++;
     }
+    if (playingTimeInput){
+      playingTimeString = "playingtime=" + playingTimeInput;
+      urlArr[inpNum] = playingTimeString;
+      inpNum++;
+    }
     var urlEnd = "";
     if (inpNum !== 0){
       urlEnd = urlArr[0];
       mUrl = 'api/games?' + urlEnd;
+    }else{
+      mUrl = '';
     }
     for (var i = 1; i < urlArr.length; i++){
       mUrl += "&" + urlArr[i];
@@ -56,18 +73,17 @@ $(document).ready(function(){
         $("#gameTable tbody").remove();
         games_list = data;
         console.log(data);
+        if(mUrl){
+         updateTable();
+        }else{
+          alert("Please specify search parameters...");
+        }
 
-        for (var i = 0; i < data.length; i++) {
-          //populate carousel
-          if(i == 0){
-            //$('.carousel-inner').append("<div class=\"item active\"><img src=\"https://cf.geekdo-images.com/images/pic2419375_t.jpg\" alt=\"...\"><div class=\"carousel-caption\"><h3>"+data[i].game+"</h3></div></div>");
-          }else{
-            //$('.carousel-inner').append("<div class=\"item\"><img src=\"https://cf.geekdo-images.com/images/pic2419375_t.jpg\" alt=\"...\"><div class=\"carousel-caption\"><h3>"+data[i].game+"</h3></div></div>");
-          }
+        /*for (var i = 0; i < data.length; i++) {
           //$('.games').append("<li class=\"game\" data-index="+i+">"+data[i].game+ " :: "+data[i].playingtime + " minutes</li>");
           $("#gameTable").append("<tr><td>" + data[i].game + "</td><td>" + data[i].minplayers + "</td><td>" + 
             data[i].maxplayers + "</td></tr>")
-      };
+      }*/;
 
 /*
       $(".game").click(function(ev){
@@ -76,6 +92,86 @@ $(document).ready(function(){
         alert(game_json.game + " :: "+game_json.playingtime + " minutes");
       });
 */
+
+      $("#gameColumn").click(function(ev){
+        gameColumnBool = !gameColumnBool
+
+        if(gameColumnBool){
+          games_list.sort(function(a,b){
+            return a.game.toLowerCase() > b.game.toLowerCase();
+          });
+        }else{
+          games_list.sort(function(a,b){
+            return b.game.toLowerCase() > a.game.toLowerCase();
+          });
+        }
+        updateTable();
+        
+      });
+
+      $("#minPlayerColumn").click(function(ev){
+        minPlayerColumnBool = !minPlayerColumnBool
+
+        if(minPlayerColumnBool){
+          games_list.sort(function(a,b){
+            return a.minplayers - b.minplayers;
+          });
+        }else{
+          games_list.sort(function(a,b){
+            return b.minplayers - a.minplayers;
+          });
+        }
+        updateTable();
+        
+      });
+
+      $("#maxPlayerColumn").click(function(ev){
+        maxPlayerColumnBool = !maxPlayerColumnBool
+
+        if(maxPlayerColumnBool){
+          games_list.sort(function(a,b){
+            return a.maxplayers - b.maxplayers;
+          });
+        }else{
+          games_list.sort(function(a,b){
+            return b.maxplayers - a.maxplayers;
+          });
+        }
+        updateTable();
+        
+      });
+
+      $("#playingTimeColumn").click(function(ev){
+        playingTimeColumnBool = !playingTimeColumnBool
+
+        if(playingTimeColumnBool){
+          games_list.sort(function(a,b){
+            return a.playingtime - b.playingtime;
+          });
+        }else{
+          games_list.sort(function(a,b){
+            return b.playingtime - a.playingtime;
+          });
+        }
+        updateTable();
+        
+      });
+
+      $("#rankColumn").click(function(ev){
+        rankColumnBool = !rankColumnBool
+
+        if(rankColumnBool){
+          games_list.sort(function(a,b){
+            return a.rank - b.rank;
+          });
+        }else{
+          games_list.sort(function(a,b){
+            return b.rank - a.rank;
+          });
+        }
+        updateTable();
+        
+      });
 
     }, 
 
@@ -87,6 +183,18 @@ $(document).ready(function(){
 
     // TODO
   });
+
+  function updateTable(){
+    $(".games").empty();
+    $("#gameTable tbody").remove();
+    console.log("Updating table...");
+
+    for (var i = 0; i < games_list.length; i++) {
+          //$('.games').append("<li class=\"game\" data-index="+i+">"+data[i].game+ " :: "+data[i].playingtime + " minutes</li>");
+      $("#gameTable").append("<tr><td><a href=\"http://www.boardgamegeek.com/boardgame/" + games_list[i].objectid + "\" target=\"_blank\">" + games_list[i].game + "</a></td><td>" + games_list[i].minplayers + "</td><td>" + 
+      games_list[i].maxplayers + "</td><td>" + games_list[i].playingtime + "</td><td>" + games_list[i].rank + "</td></tr>");
+    }
+  }
 
 
 
